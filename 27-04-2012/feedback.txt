@@ -20,7 +20,7 @@ ubuntu 12.04 ++++++
 conhecer o método each ++++
 boa interação entre os participantes ++++++
 
-Pontos negativos ) :
+Pontos negativos ):
 
 galera foi embora cedo (de novo) -------
 faltou comida ----
