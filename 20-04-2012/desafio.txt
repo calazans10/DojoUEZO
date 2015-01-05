@@ -1,2 +1,0 @@
-Nos EUA uma pessoa pode tirar a carteira de motorista com 16 anos, porém, no Brasil isso só é possível a partir dos 18. Baseado nessa informação, crie uma classe Pessoa com os seguintes atributos "nome", "idade" e "país". Você deverá implementar um método que verifique se a pessoa está apta a dirigir ou não, baseada nas leis dos dois países citados.
-
