@@ -41,7 +41,7 @@ Nos EUA uma pessoa pode tirar a carteira de motorista com 16 anos, porém, no Br
 - extensão ---
 - variar linguagens -
 - coffee (tem que fazer vaquinha) ----
-- pessoal antes do fim -----
+- pessoal saiu antes do fim -----
 - não ter horário definido ---
 - não ter sala definida ---
 - comunicação ------
