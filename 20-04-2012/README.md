@@ -35,13 +35,13 @@ Nos EUA uma pessoa pode tirar a carteira de motorista com 16 anos, porém, no Br
 - problema resolvido ++
 - só tem sangue bom ++++++
 
-### Pontos a melhor ):
+### Pontos negativos ):
 
-- o quadro ++++++++
-- extensão +++
-- variar linguagens +
-- coffee (tem que fazer vaquinha) ++++
-- pessoal antes do fim +++++
-- não ter horário definido +++
-- não ter sala definida +++
-- comunicação ++++++
+- o quadro --------
+- extensão ---
+- variar linguagens -
+- coffee (tem que fazer vaquinha) ----
+- pessoal antes do fim -----
+- não ter horário definido ---
+- não ter sala definida ---
+- comunicação ------
